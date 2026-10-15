@@ -56,6 +56,7 @@ These results represent the documented test execution cycle. Additional mobile t
 - Jira Software
 - Git and GitHub
 - GitHub Pages
+- Postman — REST API testing
 - Google Docs and Google Sheets
 - Chrome DevTools
 - Microsoft Edge and Mozilla Firefox
