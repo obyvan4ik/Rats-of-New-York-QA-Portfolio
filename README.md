@@ -76,7 +76,7 @@ The project documentation includes:
 9. Test Summary Report
 10. Jira Bug Tracking Evidence
 
-**QA Documentation:** [Insert Google Drive folder link]
+**QA Documentation:** [View Complete QA Documentation](https://drive.google.com/drive/folders/1CGCdyYk0lUvCKe3-fwtiUXsN4WvRj8iw?usp=sharing)
 
 ## Jira Bug Tracking
 
